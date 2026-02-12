@@ -3,19 +3,9 @@
 
 <p align="center">
   🎓 <b>BSc Mathematics & Computer Science</b> · University of Bristol (2024–2027)<br/>
-  💻 Software Engineering · Machine Learning · Computer Vision<br/>
+  🔬 Research Focus: Machine Learning · Computer Vision<br/>
   📍 United Kingdom
 </p>
-
-
-⸻
-
-🛠 Tech Stack
-
-
-⸻
-
-🚀 Selected Projects
 
 ⸻
 
@@ -29,14 +19,10 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yty-yang&layout=compact" />
 </p>
 
-
-
 ⸻
 
 📫 Contact
-	•	LinkedIn: (add if you want)
-	•	Email: (add if you want)
+	•	LinkedIn: https://www.linkedin.com/in/stephen-yang-b127b732b
+	•	Email: 20050812yty@gmail.com
 
 ⸻
-
-⭐ Pinned repositories below xxxxxx
